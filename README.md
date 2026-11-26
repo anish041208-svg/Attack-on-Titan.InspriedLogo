@@ -7,7 +7,7 @@
 ## 🖼️ Project Preview
 
 <p align="center">
-  <img src="images/aot_inspired_logo.png" alt="Attack on Titan Logo" width="800">
+  <img src="aot_inspired_logo.png" alt="Attack on Titan Logo" width="800">
 </p>
 
 ## 📌 About the Project
